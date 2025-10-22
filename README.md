@@ -14,6 +14,6 @@ Using the diagram and code base used for Laboratory Activity 3, fulfill the foll
 
 This github link contains the following:
 - Breadboard diagram (http://bit.ly/49gktuG)
-- Bitanga_Olano_Paciente_LAB_ACT_4_Arduino_Serial_Connection.png
+- Diagram of LAB_ACT_4_Arduino_Serial_Connection.png
 - Bitanga_Olano_Paciente_LAB_ACT_4_Arduino_Serial_Connection.ino
 - Prompt for Lab Act 4_Bitanga, Olano, Paciente_BSCS-4C
