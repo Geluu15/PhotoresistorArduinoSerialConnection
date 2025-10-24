@@ -17,3 +17,4 @@ This github link contains the following:
 - Diagram of LAB_ACT_4_Arduino_Serial_Connection.png
 - Bitanga_Olano_Paciente_LAB_ACT_4_Arduino_Serial_Connection.ino
 - Prompt for Lab Act 4_Bitanga, Olano, Paciente_BSCS-4C
+- Individual Grades of the Members
